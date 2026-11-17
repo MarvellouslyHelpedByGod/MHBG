@@ -1,0 +1,12 @@
+{
+  "name": "Marvellously Helped by God",
+  "short_name": "MHBG",
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#183a1d",
+  "background_color": "#f1f6e3",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
